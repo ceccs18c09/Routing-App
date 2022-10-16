@@ -1,0 +1,38 @@
+body{
+    background-image: url("../../assets/image/service.jpg");
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.head{
+
+    background-image: url("../../assets/image/abouthead.png");
+    height: 160px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    }
+    .ser{
+   display: flex;
+        /* text-align: center; */
+    }
+    .cir{
+        border-radius: 50%;
+        width: 250px;
+        height: 250px;
+        padding: 10px;
+        background: rgb(0, 0, 0);
+        border: 3px solid #000;
+        color: rgb(246, 238, 238);
+        text-align: center; margin-left: 120px;
+    
+}
+h3{
+    position: relative;
+    margin-top: 80px;
+   
+}
+    

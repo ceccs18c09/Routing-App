@@ -1,0 +1,38 @@
+body{
+  background-image: url(../../assets/image/BG.webp);
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+ul{
+    float: left;
+    color: antiquewhite;
+}
+/* a:hover {
+    color: hotpink;
+  } */
+  a:hover {
+    color: green;
+  }
+  img{
+    height: 500px;
+    width: 400px;
+    border-spacing: 5cm;
+  }
+  #im1{
+    margin-left: 60px;
+  }
+  #im2{
+    margin-left: 60px;
+  }
+  #im3{
+    margin-left: 60px;
+  }
+  .inf{
+height: 400px;
+width: 75%;
+color: rgb(0, 0, 1);
+
+  }

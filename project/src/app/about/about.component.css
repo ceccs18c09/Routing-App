@@ -1,0 +1,27 @@
+body{
+    background-image: url("../../assets/image/6.jpg");
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.head{
+
+    background-image: url("../../assets/image/abouthead.png");
+    height: 160px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    }
+.para{
+    margin-left: 50px;
+    margin-right: 60px;
+}
+
+.tec{
+    height: 300px;
+    width: 500px;
+   margin-left: 150px;
+}
